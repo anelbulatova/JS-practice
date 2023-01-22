@@ -23,7 +23,7 @@ var titleCaseOver = 9000;
 var studlyCapVar = 10;
 var properCamelCase = "A String";
 titleCaseOver = 9000;
-// read carefully;
+
 
 var firstLetterOfLastName = “lastName”;
 
