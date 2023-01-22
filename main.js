@@ -20,7 +20,7 @@ var properCamelCase = "A String";
 var titleCaseOver = 9000;
 
 // Variable assignments
-var studlyCapVar = 10;
+var studlyCapVar = 20;
 var properCamelCase = "A String";
 titleCaseOver = 900;
 
