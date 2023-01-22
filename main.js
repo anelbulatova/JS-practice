@@ -7,7 +7,7 @@ var b;
 b = 7;
 b = a;
 var a = 9;
-var myFirstName = "Anelya";
+var myFirstName = "Anel";
 var myLastName = "Bulatova";
 // Only change code below this line
 var a = 5;
