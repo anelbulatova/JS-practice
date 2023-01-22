@@ -22,7 +22,7 @@ var titleCaseOver = 9000;
 // Variable assignments
 var studlyCapVar = 10;
 var properCamelCase = "A String";
-titleCaseOver = 9000;
+titleCaseOver = 900;
 
 
 var firstLetterOfLastName = “lastName”;
